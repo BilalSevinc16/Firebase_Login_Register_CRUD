@@ -1,16 +1,11 @@
-# firebase_login_register_crud
+# Firebase Login Register Crud
 
-A new Flutter project.
+Firebase Login Register Crud
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Firebase_Login_Register_CRUD/assets/146417248/b34d240d-5e95-401d-a3c5-18acce8eede4)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Firebase_Login_Register_CRUD/assets/146417248/1e1848a1-e016-45a1-ba89-f16a7e6d72a5)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Firebase_Login_Register_CRUD/assets/146417248/44011d55-b937-45b9-b8b6-2c931935b12c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Firebase_Login_Register_CRUD/assets/146417248/33e5bd1f-e740-455b-9ced-53e8a75afd4c)
